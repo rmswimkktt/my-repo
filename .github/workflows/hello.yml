@@ -1,4 +1,5 @@
 name: Hello
+run-name: ワークフロー実行名
 on: push
 jobs:
   hello:
